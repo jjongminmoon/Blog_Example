@@ -1,0 +1,12 @@
+main {
+  display: flex;
+}
+
+nav {
+  padding: 20px;
+  background-color: lightgray;
+  margin-right: 40px;
+  text-align: center;
+  min-height: 100vh;
+  border-radius: 10px;
+}
